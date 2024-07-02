@@ -2,6 +2,7 @@
 This customizable Spring Framework application provides a sample store like Aerial Innovations with real-time inventory management, minimum and maximum stock levels, and purchase tracking.
 
 Project store images:
+
 ![Project Store Page1](https://github.com/MayCooper/Spring-Framework-Inventory-Management-System/assets/82129870/c3f20fec-8103-4cc5-a346-b951cd9b976b)
 ![Project Store Page2](https://github.com/MayCooper/Spring-Framework-Inventory-Management-System/assets/82129870/ffab2d3c-1480-4d2d-a215-0bed92c6df78)
 
