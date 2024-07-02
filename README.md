@@ -6,7 +6,6 @@ This customizable Spring Framework application provides a sample store like Aeri
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <h1>Project Overview: Tailored Inventory Management Application</h1>
 </head>
 <body>
     <h1>Project Overview: Tailored Inventory Management Application</h1>
